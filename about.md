@@ -10,15 +10,11 @@ I have been fascinated with cell biology ever since high school, and this intere
 
 I enjoy collaborating with others on creative projects at the intersection of art and science and was the Creative Director for the Science Outreach Society at Portland State University during the spring of 2017.
 
-### More Information
-
-wwww.benjaminmooreportfolio.weebly.com
-
 ### Contact me
 
 [ben_moore@uri.edu](mailto:ben_moore@uri.edu)
 
-## <center>BENJAMIN E. MOORE</center><center>Department of Cell and Molecular Biology</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>###
+## <center>BENJAMIN E. MOORE</center><center>Department of Cell and Molecular Biology</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>
 
 RESEARCH EXPERIENCE
 Advanced Biochemistry Laboratory
