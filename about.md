@@ -21,18 +21,18 @@ wwww.benjaminmooreportfolio.weebly.com
 ## <center>BENJAMIN E. MOORE</center><center>Department of Cell and Molecular Biology</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>
 
 #### RESEARCH EXPERIENCE
-Advanced Biochemistry Laboratory  
+**Advanced Biochemistry Laboratory**  
 University of Rhode Island, Kingston, RI  
 Jan.–May 2021  
 Sequenced and edited PTP-1B genome
 
-Advanced Molecular and Cell Biology Research Laboratory  
+**Advanced Molecular and Cell Biology Research Laboratory**  
 Portland State University, Portland, OR  
 Jan.–May 2017  
 Sequenced viral genomes and edited using recombinant DNA techniques  
 Tested which reading frames were essential for viral replication
 
-Animal Physiology Lab  
+**Animal Physiology Lab**  
 Portland State University, Portland, OR  
 Jan.–May 2017  
 Cleaned aquarium tanks, prepared laboratory solutions, assisted dissections of reptilian brain
