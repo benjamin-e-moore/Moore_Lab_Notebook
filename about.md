@@ -10,6 +10,10 @@ I have been fascinated with cell biology ever since high school, and this intere
 
 I enjoy collaborating with others on creative projects at the intersection of art and science and was the Creative Director for the Science Outreach Society at Portland State University during the spring of 2017.
 
+### More Information
+
+wwww.benjaminmooreportfolio.weebly.com
+
 ### Contact me
 
 [ben_moore@uri.edu](mailto:ben_moore@uri.edu)
