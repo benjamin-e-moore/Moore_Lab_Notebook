@@ -37,3 +37,20 @@ Figure 2: Digest of mutant SSV1 with EcoRV
 ![Gel Picture](https://raw.githubusercontent.com/benjamin-e-moore/Moore_Lab_Notebook/master/images/CSBM.JPG)
 
 Figure 3: Digest of mutant SSV1 with EcoRI and EcoRV
+
+### Table 1: Growth of S. solfataricus after electroporation
+ Trial | Sample | Growth of S. solfataricus |
+-------|--------|---------------------------|
+One| C6 | No growth
+One| C7 | Growth
+Two | C3 | No growth
+Two | C6 | No growth
+
+### Table 2: Insertion and infectivity data for samples C3-C7
+ Sample | Insertion Point (bp) | Orientation | Open Reading Frame | Infectivity |
+--------|----------------------|-------------|--------------------|-------------|
+C3 | 953-954 | Plus/minus | B-251/D-335 | Infective
+C4 | --- | --- | --- | ---
+C5 | --- | --- | --- | ---
+C6 | 5992-5993 | Plus/minus | A-100 | Infective
+C7 | 9876-9877 | Plus/plus | C-792 | Noninfective
