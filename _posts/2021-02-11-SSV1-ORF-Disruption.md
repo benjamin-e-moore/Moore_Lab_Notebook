@@ -54,3 +54,5 @@ C4 | --- | --- | --- | ---
 C5 | --- | --- | --- | ---
 C6 | 5992-5993 | Plus/minus | A-100 | Infective
 C7 | 9876-9877 | Plus/plus | C-792 | Noninfective
+
+[Stedman Paper on SSV1](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1034&context=bio_fac)
