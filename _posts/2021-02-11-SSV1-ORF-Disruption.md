@@ -37,15 +37,15 @@ The first restriction digest indicated transposon insertion between ORFs B-251 a
 
 ![HindIII Digest](https://raw.githubusercontent.com/benjamin-e-moore/Moore_Lab_Notebook/master/images/BMCS_NoLadder.jpg)
 
-Figure 1: Digest of mutant SSV1 with HindIII
+*Figure 1: Digest of mutant SSV1 with HindIII*
 
 ![EcoRV Digest](https://raw.githubusercontent.com/benjamin-e-moore/Moore_Lab_Notebook/master/images/BCWP%20EcoRV%20Digest%20SSV1.JPG)
 
-Figure 2: Digest of mutant SSV1 with EcoRV
+*Figure 2: Digest of mutant SSV1 with EcoRV*
 
 ![EcoRI/EcoRV Digest](https://raw.githubusercontent.com/benjamin-e-moore/Moore_Lab_Notebook/master/images/CSBM.PNG)
 
-Figure 3: Digest of mutant SSV1 with EcoRI and EcoRV
+*Figure 3: Digest of mutant SSV1 with EcoRI and EcoRV*
 
 ### Table 1: Growth of S. solfataricus after electroporation
 
