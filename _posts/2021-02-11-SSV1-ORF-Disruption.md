@@ -23,3 +23,15 @@ The first digest with HindIII showed band disruption for the 3458 bp fragment in
 ## Discussion
 
 The first restriction digest indicated transposon insertion between ORFs B-251 and E-96 in sample C3. Unfortunately, the second digest did not allow further refinement in our predictions. The third digest narrowed the insertion in C3 to between B-251 and D-335. These predictions were verified with sequencing, which indicated that the insertion took place directly between B-251 and D-335. A previous insertion in this location yielded an infectious virus (Iverson et al., 2017) and S. solfataricus electroporated with sample C3 did not exhibit growth in our study, which confirms initial results. Samples C4 and C5 indicated presence of the transposon only. Sample C6 appeared to have an insertion between E-178 and A-132 after the final digest, and sequencing verified that the insertion was within A-100. Previous deletions of A-100 or insertions at its origin, which is also the origin of transcript six, yielded a non-infectious virus (Iverson et al., 2017). Surprisingly, S. solfataricus electroporated with sample C6 did not exhibit growth in our study after both trials, indicating that insertions within A-100 may not be as detrimental to infectivity as insertions at its origin. Perhaps insertions at the origin of A-100 interrupt the reading of transcript six while insertions within it do not. Sample C7 appeared to have an insertion between C-166 and B-251 or between E-178 and A-132, depending on the digest. Sequencing, however, contradicted these predictions and placed the insertion within C-792. This open reading frame is highly conserved and codes for VP4, a minor capsid protein (Iverson et al., 2017). Previous insertions within C-792 yielded a non-infectious virus (Iverson et al., 2017), and we indeed found that S. solfataricus electroporated with sample C7 exhibited growth in our study. (Table 2) Unfortunately, halo assays did not perform as expected, so further testing is needed to confirm results. Possible sources of error may have included overheating S. solfataricus during plating of halo assays and preparation error during DNA isolation or digestion. Insertions between B-251 and D-335 (sample C3) and within C-792 (sample C7) behaved as predicted in past research, while an insertion within A-100 (sample C6) produced an infectious virus, providing a direction for future research, as past deletions of A-100 or insertions near its origin have rendered it noninfectious.
+
+![EcoRV Digest](https://github.com/benjamin-e-moore/Moore_Lab_Notebook/blob/master/images/BMCS_NoLadder.jpg)
+
+Figure 1: Digest of mutant SSV1 with HindIII
+
+![Gel Picture](https://github.com/benjamin-e-moore/Moore_Lab_Notebook/blob/master/images/BCWP%20EcoRV%20Digest%20SSV1.JPG)
+
+Figure 2: Digest of mutant SSV1 with EcoRV
+
+![Gel Picture](https://github.com/benjamin-e-moore/Moore_Lab_Notebook/blob/master/images/CSBM.PNG)
+
+Figure 3: Digest of mutant SSV1 with EcoRI and EcoRV
