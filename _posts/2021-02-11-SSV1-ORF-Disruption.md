@@ -35,3 +35,7 @@ Figure 2: Digest of mutant SSV1 with EcoRV
 ![Gel Picture](https://github.com/benjamin-e-moore/Moore_Lab_Notebook/blob/master/images/CSBM.PNG)
 
 Figure 3: Digest of mutant SSV1 with EcoRI and EcoRV
+
+C:\Users\Benjamin Moore\Documents\Github\Notebook-Directory\Moore_Lab_Notebook\images\BMCS_NoLadder.jpg
+
+images\BMCS_NoLadder.jpg
