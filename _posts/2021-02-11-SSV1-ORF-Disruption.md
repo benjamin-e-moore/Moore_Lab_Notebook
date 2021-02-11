@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Open Reading Frame Disruption in the Archaeal Virus SSV1
-category: [DNA Analysis]
-tags: [electrophoresis, S. solfataricus, DNA analysis]
+category: [SSV1]
+tags: [Sulfolobus solfataricus, SSV1, DNA analysis, electroporation]
 ---
 ## Summary
 
-Sulfolobus solfataricus is an archaeal thermophile. It lives in extreme conditions where the temperature climbs higher than 80 degrees C and the pH drops below 3.0. This archaeal species is infected by Sulfolobus spindle-shaped virus 1 (SSV1), a member of the fusellovirus family. Scientists study SSV1 because they are interested in how viruses replicate in extreme conditions. Viral enzymes which operate in these conditions may have applications in science and industry. This study screened SSV1 genomes which contained random insertions of the Tn5 transposon to discover which open reading frame had been mutated, then tested them for infectivity with S. solfataricus. The purpose was to characterize the open reading frames of SSV1 as essential or nonessential for infectivity and compare with past research.  
+Sulfolobus solfataricus is an archaeal thermophile. It lives in extreme conditions where the temperature climbs higher than 80 degrees C and the pH drops below 3.0. This archaeal species is infected by Sulfolobus spindle-shaped virus 1 (SSV1), a member of the fusellovirus family. Scientists study SSV1 because they are interested in how viruses replicate in extreme conditions. Viral enzymes which operate in these conditions may have applications in science and industry. This study screened SSV1 genomes which contained random insertions of the Tn5 transposon to discover which open reading frame had been mutated, then tested them for infectivity with S. solfataricus. The purpose was to characterize the open reading frames of SSV1 as essential or nonessential for infectivity and compare with past research.
+
+[Stedman Paper with genome map of SSV1](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1034&context=bio_fac)  
 
 We received a patch plate containing samples of Escherichia coli which had been transformed with mutant SSV1 DNA containing the Tn5 transposon. We chose samples C3-C7 to work with for this experiment. DNA from samples C3-C7 was isolated by alkaline lysis and GeneJet kit preps and digested with restriction enzymes HindIII, EcoRI, and EcoRV to determine location of the transposon insertion. DNA fragments were isolated on agarose gels and visualized under UV light. Samples C3, C6, and C7 were sequenced at OHSU’s Core laboratory then analyzed with FinchTV and BLAST. Samples C3, C6, and C7 were also transformed into S. solfataricus using electroporation and tested for infectivity with halo assays.
 
@@ -14,7 +16,16 @@ We found that C3 had an insertion between the open reading frames B-251 and D- 3
 
 ## Methods
 
-E. coli cells transformed with SSV1::Tn5 were grown in LB media with Kanamycin (50 micrograms/ml). The SSV1::Tn5 plasmid was extracted through alkaline lysis (modified from Kratt et al., Biotechniques) and GeneJet kit (Fisher) preps. Three digests were performed with HindIII, EcoRV, and both EcoRI and EcoRV Fast Digest restriction endonucleases and 10x Fast Digest Green Buffer (Fisher). Agarose gel electrophoresis (0.7%, 1%, and 1% agarose respectively) was used to isolate the DNA fragments, which were then visualized under UV light. NEBcutter (nc2.neb.com) was used to predict banding patterns after gel electrophoresis. DNA samples were prepared for sequencing with a BigDyeâ Terminator (Fisher) sequencing kit and sequenced at OHSU’s Core laboratory. Sequence data was analyzed with FinchTV and BLAST. Growth media (modified from Zillig) was prepared for S. solfataricus, which was incubated and then made electrocompetent by treatment with ice-cold sucrose. DNA from samples C3, C6, and C7 was used to electroporate S. solfataricus using a BTX-Gemini machine (Schleper et al., 1992, modified by Iverson) using EAI377 as the positive control. Screening for virus functionality was done with halo assays (modified from Stedman et al., 1999). The concentration of Triton X-100 was reduced by 10x for the second assay. Cultures were incubated at 37°C after spotting.
+1. E. coli cells transformed with SSV1::Tn5 were grown in LB media with Kanamycin (50 micrograms/ml).
+2. The SSV1::Tn5 plasmid was extracted through alkaline lysis (modified from Kratt et al., Biotechniques) and GeneJet kit (Fisher) preps.
+3. Three digests were performed with HindIII, EcoRV, and both EcoRI and EcoRV Fast Digest restriction endonucleases and 10x Fast Digest Green Buffer (Fisher).
+4. Agarose gel electrophoresis (0.7%, 1%, and 1% agarose respectively) was used to isolate the DNA fragments, which were then visualized under UV light.
+5. NEBcutter (nc2.neb.com) was used to predict banding patterns after gel electrophoresis.
+6. DNA samples were prepared for sequencing with a BigDyeâ Terminator (Fisher) sequencing kit and sequenced at OHSU’s Core laboratory.
+7. Sequence data was analyzed with FinchTV and BLAST.
+8. Growth media (modified from Zillig) was prepared for S. solfataricus, which was incubated and then made electrocompetent by treatment with ice-cold sucrose.
+9. DNA from samples C3, C6, and C7 was used to electroporate S. solfataricus using a BTX-Gemini machine (Schleper et al., 1992, modified by Iverson) using EAI377 as the positive control.
+10. Screening for virus functionality was done with halo assays (modified from Stedman et al., 1999). The concentration of Triton X-100 was reduced by 10x for the second assay. Cultures were incubated at 37°C after spotting.
 
 ## Results
 
@@ -54,5 +65,3 @@ C4 | --- | --- | --- | ---
 C5 | --- | --- | --- | ---
 C6 | 5992-5993 | Plus/minus | A-100 | Infective
 C7 | 9876-9877 | Plus/plus | C-792 | Noninfective
-
-[Stedman Paper on SSV1](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1034&context=bio_fac)
